@@ -1,0 +1,12 @@
+{
+    "valorant": {
+        "video_count": 6,
+        "agent_number": 6,
+        "max_agent_number": 19,
+        "current_i": 0,
+        "i_max": 4
+    },
+    "bot": {
+        "token": "Nzg0ODIyMTkwMTcyMDEyNTc0.Gu2p0r.RwDGej9wVWF6fLpS6bhngUJOwDNffdZrQBrmQs"
+    }
+}
